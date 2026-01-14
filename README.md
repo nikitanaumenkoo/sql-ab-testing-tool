@@ -1,2 +1,19 @@
-# sql-ab-testing-tool
-SQL project for building a dataset to analyze A/B test results
+## Create Your A/B Testing Tool
+
+### Опис
+SQL-скрипт формує єдиний набір метрик для аналізу A/B тестів,
+об’єднуючи дані про сесії, події, замовлення та створення акаунтів.
+
+### Що вирішує
+Дозволяє порівнювати test та control групи за ключовими показниками:
+- кількість сесій
+- сесії з замовленнями
+- події користувачів
+- створені акаунти
+
+### SQL-навички
+- CTE (WITH)
+- JOIN
+- GROUP BY
+- UNION ALL
+
